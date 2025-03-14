@@ -7,7 +7,6 @@ A simple Tetris game implemented in Java using Swing.
 - Different colored Tetriminos
 - Scoring system
 - Pause and restart functionality
-- Background music support
 
 ## 🛠️ Installation
 1. Clone the repository:
@@ -31,7 +30,6 @@ A simple Tetris game implemented in Java using Swing.
 
 ## 📁 File Structure
 - `Tetris.java` - Main game logic
-- `bg.wav` - Background music file (Ensure it's in the project directory)
 
 
 ## 🚀 Contributing
